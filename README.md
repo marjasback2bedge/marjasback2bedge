@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marja</h1>
-<h3 align="center">A student developer from Taiwan</h3>
+<h3 align="center">A young-dumb student developer from Taiwan</h3>
 
 - 🌱 I’m currently learning **swift, python, scrapy, golang**
 
