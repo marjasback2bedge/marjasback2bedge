@@ -3,7 +3,7 @@
 
 > i usually disappear on Saturday cuz theres no reason to make me asleep :P
 
-- 🌱 I’m currently learning **swift, python, scrapy, golang**
+- 🌱 I’m currently learning **swift, python, golang, php**
 
 - 💬 Ask me about **C/C++, python**
 
