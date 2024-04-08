@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Marja</h1>
 <h3>A young-dumb student developer from Taiwan</h3>
+> i usually disappear on Saturday cuz theres no reason to make me asleep :P
 
 - 🌱 I’m currently learning **swift, python, scrapy, golang**
 
