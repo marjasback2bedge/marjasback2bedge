@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Marja</h1>
 <h3>A young-dumb student developer from Taiwan</h3>
 
-- 🌱 I’m currently learning **swift, golang, rust**
+- 🌱 I’m currently learning **swift, solidity**
 
 - 💬 Ask me about **C/C++, python**
 
